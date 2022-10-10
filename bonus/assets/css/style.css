@@ -1,0 +1,14 @@
+ul.fizzbuzz{
+    list-style: none;
+    flex-wrap: wrap;
+}
+ul>li{
+    width: 9rem;
+    height: 9rem;
+    border: 1px solid ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
